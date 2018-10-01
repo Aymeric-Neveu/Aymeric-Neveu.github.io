@@ -1,0 +1,99 @@
+body{
+  background-image:url(fond3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#black {
+  height: 1500px;
+}
+a {
+  color: #FFFF;
+}
+a:hover{
+  color: white;
+}
+h2{
+  text-align: center;
+  margin-top: 13%;
+  color: white;
+}
+#gmail1{
+  background-size: cover;
+  width: 8%;
+  height: 2%;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+#github{
+  background-size: cover;
+  width: 8%;
+  height: 2%;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+#telephone{
+  background-size: cover;
+  width: 8%;
+  height: 2%;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+#voiture{
+  background-size: cover;
+  width: 8%;
+  height: 2%;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+.texte1{
+text-align: center;
+color: white
+}
+#pres{
+  color: white;
+}
+#gauche{
+  text-align: left;
+  font-size: 60px;
+  font-style: italic;
+}
+#centre{
+  text-align: center;
+  font-size: 60px;
+  font-style: italic;
+}
+#droite{
+  text-align: right;
+  font-size: 60px;
+  font-style: italic;
+}
+#codage{
+  width: 100%;
+  height: 15%;
+}
+h3{
+  text-align: center;
+}
+#com{
+  color: white;
+  margin-top: 14%;
+}
+#exp{
+  color: white;
+  margin-top: 14%;
+
+}
+#for{
+  color: white;
+  margin-top: 14%;
+}
+hr{
+  width: 50px;
+  border-top: 2px solid white;
+}
+.centre1{
+  text-align: center;
+}
+#decalagebas{
+  margin-top: 10%;
+}
